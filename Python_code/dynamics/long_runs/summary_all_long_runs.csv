@@ -1,0 +1,5 @@
+,network,case,scenario,duration,outbreak_type,equilibria,E0,delta,degree,PrEP_comm_type,no_PrEP_comm_type
+0,1,case_A,_prep_ic_prep,119.97643406187652,large,1.2222210117428602,711,1.0,27,large,large
+1,1,case_B,_prep_ic_prep,119.99785358950992,large,3.9743732356126604,711,1.0,27,large,large
+2,2,case_A,_prep_ic_prep,119.98935848318524,large,0.4790184620596206,953,1.0,30,large,large
+3,2,case_B,_prep_ic_prep,119.99796379691011,large,4.035121703186789,953,1.0,30,large,large
